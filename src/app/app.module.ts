@@ -14,6 +14,8 @@ import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './register/register.component';
 import { PartenaireComponent } from './partenaire/partenaire.component';
 
+
+// on définie ici tous les chemins 
 const routes:Routes=[
   {path: 'accueil',component:AccueilComponent},
   {path: 'about',component:AboutComponent},
